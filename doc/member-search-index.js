@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Verifica","c":"Trapezio","l":"CalcArea(float, float, float)","u":"CalcArea(float,float,float)"},{"p":"Verifica","c":"Trapezio","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"Verifica","c":"Trapezio","l":"Trapezio()","u":"%3Cinit%3E()"}];updateSearchResults();
